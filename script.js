@@ -72,7 +72,7 @@ function closeCartModal() {
 
 function contactUs() {
     // Assuming the user is on a mobile device, initiate a phone call
-    window.location.href = 'tel:+9027905615';
+    window.location.href = 'tel:9027905615';
     // Replace the phone number with your actual contact number
 }
 
